@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey+Navaz+here...)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Navaz  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
-<h3 align="center">A passionate Cyber security student </h3>
+<h3 align="center">A passionate Cyber Security Student </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
